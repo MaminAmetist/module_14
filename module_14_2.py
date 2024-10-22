@@ -65,7 +65,7 @@ def avg_balance():
 # create_users()
 # balance_user()
 # del_user()
-# del_six()
+del_six()
 # del_users()
 print(count := count_users())
 print(balance := sum_users())
